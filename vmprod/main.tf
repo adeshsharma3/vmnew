@@ -1,6 +1,6 @@
 resource "azurerm_resource_group" "example" {
-  name     = "example-resources"
-  location = "West Europe"
+  name     = "my-rg"
+  location = "east us"
 }
 
 resource "azurerm_virtual_network" "example" {
