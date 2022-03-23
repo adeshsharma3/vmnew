@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "example" {
-  name     = "my-rg2"
+  name     = "my-rg1"
   location = "east us"
 }
 
